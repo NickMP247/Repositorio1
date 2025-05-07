@@ -6,7 +6,7 @@
 </style>
 </head>
 <body>
-<h1 align="center">Buenos días, estudiantes </h1>
+<h1 align="center">Buenos días, estudiantes del master de desarrollo 2025</h1>
 <br>
 <div align="center">
 <img src="playa.jpg">
